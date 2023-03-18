@@ -8,23 +8,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../javax.activation-api-1.2.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../jaxb-api-2.4.0-b180830.0359.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="activation-1.0.2" level="project" />
+    <orderEntry type="library" name="jaxb-api-2.3.1" level="project" />
+    <orderEntry type="library" name="jaxb-core-4.0.1" level="project" />
+    <orderEntry type="library" name="jaxb-impl-4.0.1" level="project" />
   </component>
 </module>

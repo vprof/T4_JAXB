@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="jar://$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar!/javax/xml/bind/JAXB.class" charset="UTF-16BE" />
+    <file url="jar://$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar!/javax/xml/bind/JAXBContext.class" charset="GBK" />
+    <file url="jar://$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar!/javax/xml/bind/JAXBContextFactory.class" charset="UTF-16BE" />
+    <file url="jar://$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar!/javax/xml/bind/JAXBException.class" charset="UTF-16BE" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
